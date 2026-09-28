@@ -476,6 +476,7 @@ odm/lib64/libeyecare.so
 odm/lib64/libfcmintf.so
 odm/lib64/libflatmode.so
 odm/lib64/libfpsmonitor.so
+system_ext/lib64/vendor.xiaomi.hardware.framecapturemanager-V1-ndk.so
 odm/lib64/libframecapturemanager.so
 odm/lib64/libhistprocess.so
 odm/lib64/libmi_dspp.so
