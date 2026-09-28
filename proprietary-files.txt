@@ -792,7 +792,7 @@ system_ext/lib64/libimscamera_jni.so;SYMLINK=system_ext/priv-app/ims/lib/arm64/l
 system_ext/lib64/libimsmedia_jni.so;SYMLINK=system_ext/priv-app/ims/lib/arm64/libimsmedia_jni.so
 system_ext/lib64/vendor.qti.ims.datachannelservice-V1-ndk.so
 system_ext/lib64/vendor.qti.ImsRtpService-V1-ndk.so
-system_ext/lib64/vendor.qti.ImsRtpService-V2-ndk
+# system_ext/lib64/vendor.qti.ImsRtpService-V2-ndk
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so
 system_ext/lib64/vendor.qti.imsrtpservice@3.1.so
 system_ext/priv-app/ims/ims.apk;REQUIRED=QtiTelephonyCompat
@@ -1041,7 +1041,7 @@ odm/lib64/libQnnGpuNetRunExtensions.so
 odm/lib64/libQnnGpuProfilingReader.so
 odm/lib64/libQnnGpu.so
 odm/lib64/libQnnHtpNetRunExtensions.so
-odm/lib64/libQnnHtpPrepare.so
+# odm/lib64/libQnnHtpPrepare.so
 odm/lib64/libQnnHtpProfilingReader.so
 odm/lib64/libQnnHtp.so
 odm/lib64/libQnnHtpV68CalculatorStub.so
